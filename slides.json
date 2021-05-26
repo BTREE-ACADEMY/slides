@@ -1,0 +1,625 @@
+{
+  "java": [
+    {
+      "name": "Basics",
+      "heading": true
+    },
+    {
+      "name": "Hello world 🌎",
+      "desc": "Basics",
+      "tags": "numbers,strings,math,logical operators,if,method"
+    },
+    {
+      "name": "Logic",
+      "desc": "More logic building and examples",
+      "tags": "if-2,nested if",
+      "quiz": "logic-1"
+    },
+    {
+      "name": "Methods",
+      "desc": "Create an interactive program using user inputs and re-usable methods",
+      "tags": "method-2,input,P:Rock paper scissors",
+      "quiz": "logic-3"
+    },
+    {
+      "name": "Loops",
+      "heading": true
+    },
+    {
+      "name": "For Loops",
+      "desc": "Repetition makes perfect",
+      "tags": "for,for+if",
+      "quiz": "loop-1"
+    },
+    {
+      "name": "Loop Quizzes",
+      "desc": "A variety of loop quiz patterns",
+      "tags": "P:guessing game",
+      "quiz": "loop-2"
+    },
+    {
+      "name": "Simulators",
+      "desc": "Make real-world simulators and games using the power of ➰",
+      "tags": "Q:For-loop Tracing,P:battle simulator",
+      "quiz": "loop-3"
+    },
+    {
+      "name": "While Loops",
+      "desc": "An alternative way to loop",
+      "tags": "while,Q:While Tracing,P:race simulator",
+      "quiz": "loop-4"
+    },
+    {
+      "name": "Nested Loops",
+      "desc": "A light introduction to nested loops.",
+      "tags": "nested loops,Q:nested loop tracing,P:pattern drawing",
+      "difficult": true,
+      "quiz": "loop-5"
+    },
+    {
+      "name": "Strings",
+      "heading": true
+    },
+    {
+      "name": "Using strings",
+      "desc": "Essential built-in string methods",
+      "tags": "string methods",
+      "quiz": "string-1"
+    },
+    {
+      "name": "String Loops",
+      "desc": "String as an array",
+      "tags": "string loop",
+      "quiz": "string-2"
+    },
+    {
+      "name": "Array",
+      "heading": true
+    },
+    {
+      "name": "Array",
+      "desc": "Introduction to array data structure",
+      "tags": "array,array traversal,array aggregates",
+      "quiz": "array-1"
+    },
+    {
+      "name": "Array 2",
+      "desc": "More difficult list questions and introduction of index-based traversals",
+      "tags": "array traversal-2,array+flag",
+      "quiz": "array-2"
+    },
+    {
+      "name": "Array 3",
+      "desc": "Competitive array questions",
+      "tags": "array manipulation",
+      "quiz": "array-3"
+    },
+    {
+      "name": "Array 4",
+      "desc": "Harder competitive array questions",
+      "tags": "array+nested loop",
+      "quiz": "array-4",
+      "difficult": true
+    },
+    {
+      "name": "Simulators",
+      "desc": "Simulate N-values at the same time by keeping them in the list",
+      "tags": "🔨 Horse Race,🔨 sorter,🔨 zombie spreader",
+      "quiz": "array-5"
+    },
+    {
+      "name": "2D Array",
+      "desc": "Array inside an array",
+      "tags": "2d array,2d array as grid",
+      "difficult": true,
+      "quiz": "array-6"
+    },
+    {
+      "name": "Competition List",
+      "desc": "You are good enough for some competition questions. Are these interesting to you? 😉",
+      "difficult": true,
+      "quiz": "array-7"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "heading": true
+    },
+    {
+      "name": "Introduction to Classes",
+      "desc": "Object oriented programming help build large scale applications",
+      "tags": "OOP,class-1",
+      "quiz": "oop-1"
+    },
+    {
+      "name": "More on Classes",
+      "desc": "Simplify complex application using OOP techniques",
+      "tags": "class-2,P:battle simulator",
+      "quiz": "oop-2"
+    },
+    {
+      "name": "Using objects as data structure",
+      "desc": "2D arrays no more!",
+      "tags": "Object class,array of objects,P:horse race 2",
+      "quiz": "oop-3"
+    },
+    {
+      "name": "Inheritance",
+      "desc": "Reuse a class by creating a subclass",
+      "tags": "inheritance",
+      "quiz": "oop-4"
+    },
+    {
+      "name": "Extra but useful topics",
+      "heading": true
+    },
+    {
+      "name": "References",
+      "desc": "Primitive types and reference types",
+      "tags": "reference types,immutables,sortings,searching,Q:references"
+    }
+  ],
+  "apcsa": [
+    {
+      "name": "Course End Evaluation",
+      "test": true
+    }
+  ],
+  "usaco-intro": [
+    {
+      "name": "📝 Placement Test",
+      "desc": "Do you have the required knowledge and skills to begin this path?",
+      "test": true
+    },
+    {
+      "name": "Easy Array",
+      "desc": "Can you solve easy questions at an accelerated ⚡ speed?"
+    },
+    {
+      "name": "Intermediate array",
+      "tags": "complete search,nested loop",
+      "desc": "Solve slightly harder array questions. Learn to trace and build nested loops."
+    },
+    {
+      "name": "Simulation",
+      "desc": "Let's simulate, not calculate. No MATH required!",
+      "tags": "Simulation"
+    },
+    {
+      "name": "Insightful",
+      "desc": "Tackle questions that require a clever insight 💡. Are you clever?",
+      "tags": "insight,ad-hoc"
+    },
+    {
+      "name": "Well Known Problems",
+      "desc": "Apply everything you have learnt to solve many well known real-life 🌏 problems... such as prime, leap years, and fibonacci"
+    },
+    {
+      "name": "Final Evaluation",
+      "desc": "Get your blackbelt ⬛",
+      "test": true
+    }
+  ],
+  "usaco-bronze": [
+    {
+      "name": "Fundamentals",
+      "heading": true
+    },
+    {
+      "name": "Introducing...",
+      "desc": "Intro to competitive programming and preparations: debugging 🐛, tips, and input processing",
+      "tags": "introduction,input,contest strategy,static",
+      "quiz": "bronze-1:10"
+    },
+    {
+      "name": "Numbers",
+      "desc": "Numbers and some math.",
+      "tags": "types,complexity,sorting and searching",
+      "quiz": "bronze-2"
+    },
+    {
+      "name": "Array",
+      "desc": "Some challenging array questions",
+      "duration": 2,
+      "tags": "array 1",
+      "quiz": "bronze-array"
+    },
+    {
+      "name": "Data Structures",
+      "heading": true
+    },
+    {
+      "name": "2D Array",
+      "desc": "Nested Arrays and common applications in competitions",
+      "duration": 2,
+      "tags": "2d array",
+      "quiz": "bronze-2d"
+    },
+    {
+      "name": "ArrayList",
+      "desc": "A resizable array that comes in very handy",
+      "tags": "arraylist",
+      "quiz": "bronze-list"
+    },
+    {
+      "name": "Hash Table",
+      "desc": "A data structure dedicated for searching",
+      "tags": "hash-set,hash-map",
+      "quiz": "hash-3",
+      "duration": 2
+    },
+    {
+      "name": "Algoriothms",
+      "heading": true
+    },
+    {
+      "name": "Simulation",
+      "desc": "Sometimes you just have to do it...",
+      "tags": "simulation",
+      "quiz": "simulation"
+    },
+    {
+      "name": "Complete Search",
+      "desc": "A technique also known as brute force",
+      "tags": "all-pairs",
+      "quiz": "bronze-brute"
+    },
+    {
+      "name": "Optimizing",
+      "desc": "Sometimes you don't have to search everywhere",
+      "tags": "greedy,adhoc,sort-hash",
+      "duration": 2,
+      "quiz": "bronze-optimize"
+    },
+    {
+      "name": "Recursion",
+      "heading": true
+    },
+    {
+      "name": "Recursion Basics",
+      "desc": "A recursive approach to solving questions",
+      "tags": "recursion,Q:recursion tracing",
+      "quiz": "recursion-1"
+    },
+    {
+      "name": "Recursion Practice",
+      "desc": "Make recursion a 💪 memory",
+      "tags": "Q:Loop to recursion,problems",
+      "quiz": "recursion-2",
+      "duration": 2
+    }
+  ],
+  "python": [
+    {
+      "name": "Basics",
+      "heading": true
+    },
+    {
+      "name": "Hello world 🌎",
+      "desc": "Learn how to print, create variables and use operators. Basic stuffs.",
+      "tags": "setup,variables and operators,if,function,problem solving",
+      "quiz": "logic-1"
+    },
+    {
+      "name": "Interactive Programming",
+      "desc": "Let's create a program that interacts with a user!",
+      "tags": "input and output,function with return,P:Survey Donkey,quiz bank",
+      "quiz": "logic-2"
+    },
+    {
+      "name": "Logic Building",
+      "desc": "Solve logic problems!",
+      "tags": "if-elseif-else,P:Quizlet"
+    },
+    {
+      "name": "Loops",
+      "heading": true
+    },
+    {
+      "name": "Loops",
+      "desc": "Repetition makes perfect",
+      "tags": "range-loop,loops+if,continue and break,P:Number guessing game,P:Rock-paper"
+    },
+    {
+      "name": "Simulators",
+      "desc": "Make real-world simulators and games using the power of ➰",
+      "tags": "P:race simulator,P:battle simulator,P:number guessing game 2"
+    },
+    {
+      "name": "Animations and GUI",
+      "desc": "Let's meet 🐢. Let's do some fancy animations and graphical simulations",
+      "tags": "time,turtle,🔨 animated race,🔨 computer graphics"
+    },
+    {
+      "name": "Nested Loops",
+      "desc": "Loop inside a loop. Advanced.",
+      "tags": "nested loops",
+      "difficult": true
+    },
+    {
+      "name": "Strings",
+      "heading": true
+    },
+    {
+      "name": "String methods",
+      "desc": "Strings come with lots of goodies",
+      "tags": "string concat,length and index,substring"
+    },
+    {
+      "name": "String Loops",
+      "desc": "Same old loop question but with strings",
+      "tags": "string loop,char and num"
+    },
+    {
+      "name": "Lists",
+      "heading": true
+    },
+    {
+      "name": "List",
+      "desc": "Introduction to list data structure",
+      "tags": "list basics,traversal,aggregates"
+    },
+    {
+      "name": "List 2",
+      "desc": "More difficult list questions and introduction of index-based traversals",
+      "tags": "Flag variable,List index-3"
+    },
+    {
+      "name": "Simulators",
+      "desc": "Simulate N-values at the same time by keeping them in the list",
+      "tags": "🔨 Horse Race,🔨 sorter,🔨 zombie spreader"
+    },
+    {
+      "name": "2D List",
+      "desc": "List inside a list",
+      "tags": "2d list,2d grid",
+      "difficult": true
+    },
+    {
+      "name": "Competition List",
+      "desc": "You are good enough for some competition questions. Are these interesting to you? 😉",
+      "difficult": true,
+      "tags": "quiz-1"
+    },
+    {
+      "name": "Data Sturcutures",
+      "heading": true
+    },
+    {
+      "name": "Tuples",
+      "desc": "An immutable list",
+      "tags": "tuples"
+    },
+    {
+      "name": "Sets",
+      "desc": "For fast searching, use sets. Uniqueness guaranteed!",
+      "tags": "sets,problem solving with sets"
+    },
+    {
+      "name": "Dictionary",
+      "desc": "An array-like but different data structure 📘",
+      "tags": "dictionary,coordinates,list+dictionary"
+    },
+    {
+      "name": "Nested Data Structures",
+      "desc": "Just like 2D lists but with variations 💐",
+      "tags": "nested data structures"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "heading": true
+    },
+    {
+      "name": "Introduction to Classes",
+      "desc": "Object oriented programming help build large scale applications",
+      "tags": "OOP,class,objects"
+    },
+    {
+      "name": "🔧 Battle Simulator",
+      "desc": "Create a battle simulation between two monsters",
+      "tags": "game"
+    },
+    {
+      "name": "🔧 Horse Race Ver.2",
+      "desc": "Create a horse racing simulation",
+      "tags": "array of objects"
+    },
+    {
+      "name": "Inheritance",
+      "desc": "Reuse a class by creating a subclass",
+      "tags": "Polymorphism"
+    },
+    {
+      "name": "OOP MC",
+      "desc": "Test your OOP knowledge through multiple choice quizzes"
+    },
+    {
+      "name": "Game Demo",
+      "desc": "Watch how a medium scale game is built using an OOP paradigm"
+    },
+    {
+      "name": "End of Python-3 Exam",
+      "desc": "You have now mastered Python 🎊🍾",
+      "test": true
+    }
+  ],
+  "usaco-silver": [
+    {
+      "name": "Bronze Review",
+      "heading": true
+    },
+    {
+      "name": "Review 1",
+      "desc": "",
+      "tags": "recursion,complexity",
+      "quiz": "recursion-3"
+    },
+    {
+      "name": "Review 2",
+      "desc": "",
+      "tags": "2d array,bronze data structures",
+      "quiz": "silver-1"
+    },
+    {
+      "name": "Complete Search",
+      "heading": true
+    },
+    {
+      "name": "Complete Search",
+      "desc": "👊 Brute force approach to find any existing answer",
+      "tags": "Q:Recursion Quiz,setsets",
+      "quiz": "recursion-3"
+    },
+    {
+      "name": "Backtracking",
+      "desc": "Optimize complete search using a backtracking technique",
+      "tags": "backtracking,meet-in-the-middle,pruning",
+      "quiz": "recursion-4"
+    },
+    {
+      "name": "Dynamic Programming",
+      "desc": "Light introduction to dynamic programing and optimizing complete search",
+      "tags": "duplicate,fibonacci,group sum,T:recursion test",
+      "quiz": "dp-1"
+    },
+    {
+      "name": "Silver Data Structures",
+      "desc": "Every data structure required for Silver",
+      "heading": true
+    },
+    {
+      "name": "Arrays & Hashtable",
+      "desc": "Review of bronze-level data structures",
+      "tags": "chart,arraylist,hash set,hash map"
+    },
+    {
+      "name": "Linked List",
+      "desc": "A node based list",
+      "tags": "linked list,stack,queue,deque"
+    },
+    {
+      "name": "Binary Search Tree",
+      "desc": "Keeps them sorted",
+      "tags": "tree set,tree map"
+    },
+    {
+      "name": "Heap",
+      "desc": "min/max heap",
+      "tags": "priority queue"
+    },
+    {
+      "name": "Exercises",
+      "tags": "easy,medium"
+    },
+    {
+      "name": "Misc Topics",
+      "heading": true
+    },
+    {
+      "name": "Amortized Analysis",
+      "tags": "2 pointers method,nearest smaller elements,sliding window,exercises"
+    },
+    {
+      "name": "Ranged Queries",
+      "tags": "prefix sums,2D prefix sums,sparse table"
+    },
+    {
+      "name": "Greedy Algorithm",
+      "tags": "greedy,exercise"
+    },
+    {
+      "name": "Sorting and Searching",
+      "tags": "sort,binary-search"
+    },
+    {
+      "name": "bits and binaries",
+      "tags": "bit ops,binary exponentiation"
+    },
+    {
+      "name": "Dynamic Programming",
+      "heading": true
+    },
+    {
+      "name": "Recurrence Relations",
+      "tags": "coin-problem,LIS,Path-in-grid,exercises"
+    },
+    {
+      "name": "Knapsack",
+      "tags": "Knapsack-1,knapsack-2,LCS,edit distance,tiling"
+    },
+    {
+      "name": "DP Exercises",
+      "tags": "easy,medium,hard"
+    },
+    {
+      "name": "Graph Theory",
+      "heading": true
+    },
+    {
+      "name": "Recursive traversals",
+      "tags": "grid,flood-fill,dfs,exercises"
+    },
+    {
+      "name": "Iterative traversals",
+      "tags": "dfs,bfs,exercises"
+    },
+    {
+      "name": "Shortest Path",
+      "tags": "dijkstra,bellman-ford,floyd-warshall,exercises"
+    }
+  ],
+  "react": [
+    {
+      "name": "Intro",
+      "desc": "What is React? Our goal",
+      "tags": "configurations,npm"
+    },
+    {
+      "name": "Javascript",
+      "desc": "All the JavaScript goodies you should know for React",
+      "tags": "es6,es7,es8,es9"
+    }
+  ],
+  "js": [
+    {
+      "name": "Intro",
+      "desc": "About this course"
+    },
+    {
+      "name": "JS as 2nd Language",
+      "desc": "Overview of JavaScript for Java and Python programmers"
+    },
+    {
+      "name": "Functions",
+      "desc": "Function as a first-class citizen",
+      "tags": "pure function,arrow function,callback"
+    },
+    {
+      "name": "Arrays",
+      "desc": "Learn about built-in array functions and how arrays are generally handled in JavaScript",
+      "tags": "for/of,forEach,map,filter,destructuring"
+    },
+    {
+      "name": "Array Quizzes",
+      "desc": "General review of an array. Difference is that you can utilize array functions as much as you can"
+    },
+    {
+      "name": "Objects",
+      "desc": "Object as a data structure",
+      "tags": "dictionary,map,for/in"
+    },
+    {
+      "name": "Class",
+      "desc": "Learn about basic object oriented programming. It's fun! 😁🎈",
+      "tags": "class,object,constructor"
+    },
+    {
+      "name": "Asynchronous-JS",
+      "heading": true
+    },
+    {
+      "name": "Asynchronous JS",
+      "desc": "why it is important, and how it can be used to effectively handle potential blocking operations such as fetching resources from a server",
+      "tags": "async-intro,timeouts-and-intervals,promises,async-await"
+    }
+  ]
+}
