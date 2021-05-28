@@ -290,7 +290,7 @@
   ],
   "python": [
     {
-      "name": "Basics",
+      "name": "Python 1",
       "heading": true
     },
     {
@@ -312,10 +312,6 @@
     },
     {
       "name": "Loops",
-      "heading": true
-    },
-    {
-      "name": "Loops",
       "desc": "Repetition makes perfect",
       "tags": "range-loop,loops+if,continue and break,P:Number guessing game,P:Rock-paper"
     },
@@ -334,10 +330,6 @@
       "desc": "Loop inside a loop. Advanced.",
       "tags": "nested loops",
       "difficult": true
-    },
-    {
-      "name": "Strings",
-      "heading": true
     },
     {
       "name": "String methods",
@@ -569,14 +561,64 @@
   ],
   "react": [
     {
-      "name": "Intro",
-      "desc": "What is React? Our goal",
-      "tags": "configurations,npm"
+      "name": "Prerequisites",
+      "heading": true
     },
     {
-      "name": "Javascript",
+      "name": "Introduction",
+      "desc": "What is React?",
+      "tags": "configurations,html-css-review,js-review"
+    },
+    {
+      "name": "Modern CSS",
+      "desc": "CSS for this day and age",
+      "tags": "T:css-test,Tailwind,Flex,Grid,P:github-pages"
+    },
+    {
+      "name": "Advanced Javascript",
       "desc": "All the JavaScript goodies you should know for React",
-      "tags": "es6,es7,es8,es9"
+      "tags": "arrays,functions,es6-10"
+    },
+    {
+      "name": "React",
+      "heading": true
+    },
+    {
+      "name": "Basics",
+      "desc": "Getting started with React",
+      "tags": "JSX,state,event,P:vote"
+    },
+    {
+      "name": "Array State",
+      "desc": "Using arrays as state variables and utilizing array methods for changes",
+      "tags": "array-state,form,P:dice,P:vote-2,P:todo-list"
+    },
+    {
+      "name": "Array+Object State",
+      "desc": "Create more micro apps using complicated state variable structures.",
+      "tags": "array-object-state,P:calendar,P:twitter,P:todo-w-importance"
+    },
+    {
+      "name": "Animations and games",
+      "desc": "animations, games, time based logic",
+      "tags": "setTimeout,css-animation,P:loading-screen,P:guess,P:race,P:memory,P:match-4"
+    },
+    {
+      "name": "Components",
+      "desc": "Separate concern, modularized folder structures and best practices",
+      "tags": "component,props,function props,destructuring,P:vote-3,P:keep"
+    },
+    {
+      "name": "Database",
+      "desc": "Learn about database and use it to persist data",
+      "tags": "firebase,firestore,P:diary,P:calendar-2"
+    },
+    {
+      "name": "Navigation"
+    },
+    {
+      "name": "Putting it together",
+      "tags": "P:gradient"
     }
   ],
   "js": [
