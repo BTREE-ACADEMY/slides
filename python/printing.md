@@ -127,7 +127,7 @@ print(True + "")
 print("HEllo" / 4)
 ```
 
-Every statement here is erroneous. **In general**, operators evaluate only the like types.
+Every statement here is **erroneous**. In general, operators evaluate only the like types.
 
 ---
 
