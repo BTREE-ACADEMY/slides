@@ -50,6 +50,8 @@ print("hello", end='')
 print("world")
 ```
 
+By default, each `print` statement adds a _newline_ at the end. We can override this behavior by supplying an alternative ending.
+
 ```
 1helloworld
 ```
